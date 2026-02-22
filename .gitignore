@@ -17,7 +17,7 @@ WhatsApp Image 2025-12-13 à 12.36.01_d4d27eb2*
 !WhatsApp Image 2025-12-13 à 12.36.01_d4d27eb2 1*
 
 Assets/*.jpg
-
+Assets/*.png
 
 Assets/Materials
 # Assets/Nathan/Scenes/
@@ -35,4 +35,4 @@ Assets/SampleScene.*
 
 !*alwena_sweat_sans_pb_0*
 !*remi_sweat_sans_pb_1*
-!Assets\alwena_sweat_sans_pb.prefab
+!Assets/alwena_sweat_sans_pb.prefab
