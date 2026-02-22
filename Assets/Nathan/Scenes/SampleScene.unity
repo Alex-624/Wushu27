@@ -3112,11 +3112,11 @@ PrefabInstance:
     - target: {fileID: 4008796558576139550, guid: 74ab563dff2abaf49a978359ad2313d6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fed701ba76d16cb45b152a3c8780a31b, type: 2}
+      objectReference: {fileID: -8022088438238926171, guid: 8b5f31f867df51949b94a4eebabc86ac, type: 3}
     - target: {fileID: 5374256858411423478, guid: 74ab563dff2abaf49a978359ad2313d6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9666554e760b59a4892bcff75f3d3a8d, type: 2}
+      objectReference: {fileID: -1756179739759820720, guid: 8b5f31f867df51949b94a4eebabc86ac, type: 3}
     - target: {fileID: 8427619941300098763, guid: 74ab563dff2abaf49a978359ad2313d6, type: 3}
       propertyPath: m_CastShadows
       value: 1

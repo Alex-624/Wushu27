@@ -404,6 +404,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Recorder.Base.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Recorder.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Recorder.ref.dll"
@@ -464,7 +465,6 @@
 "Assets/MyAssets/To_export/Despawner.cs"
 "Assets/MyAssets/To_export/MultiPrefabSpawner.cs"
 "Assets/MyAssets/To_export/Spawn.cs"
-"Assets/Nathan/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
 /optimize+
