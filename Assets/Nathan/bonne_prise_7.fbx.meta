@@ -1,0 +1,1041 @@
+fileFormatVersion: 2
+guid: b42d9c00dad9dff4eba32c4bda880e1b
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 2025-11-27 09.13.48 AMtest5' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'client_alwena_Spine1' has
+      translation animation that will be discarded.\n\t'client_alwena_Head' has translation
+      animation that will be discarded.\n\t'client_alwena_LeftHand' has translation
+      animation that will be discarded.\n\t'client_alwena_RightHand' has translation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: client_alwena_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: client_alwena_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: bonne_prise_7(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_Hips
+      parentName: bonne_prise_7(Clone)
+      position: {x: 0, y: 0.83972263, z: 0.07857451}
+      rotation: {x: -0.03882446, y: 0.069771826, z: 0.0021053585, w: 0.996805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LeftUpLeg
+      parentName: client_alwena_Hips
+      position: {x: -0.090160385, y: 0, z: 0}
+      rotation: {x: -0.069487564, y: -0.09284944, z: -0.012366166, w: 0.9931755}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LeftLeg
+      parentName: client_alwena_LeftUpLeg
+      position: {x: -0, y: -0.36101526, z: 0}
+      rotation: {x: 0.2783979, y: -0.11851177, z: -0.0048752963, w: 0.95311373}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LeftFoot
+      parentName: client_alwena_LeftLeg
+      position: {x: -0, y: -0.3939742, z: 0}
+      rotation: {x: -0.18278241, y: 0.07561542, z: -0.006287815, w: 0.9802211}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LeftToeBase
+      parentName: client_alwena_LeftFoot
+      position: {x: -0, y: -0.058604248, z: 0.13524058}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RightUpLeg
+      parentName: client_alwena_Hips
+      position: {x: 0.090160385, y: 0, z: 0}
+      rotation: {x: -0.07708541, y: 0.022008969, z: 0.022691904, w: 0.9965232}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RightLeg
+      parentName: client_alwena_RightUpLeg
+      position: {x: -0, y: -0.36101526, z: 0}
+      rotation: {x: 0.23027144, y: 0.102690965, z: 0.020530108, w: 0.9674752}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RightFoot
+      parentName: client_alwena_RightLeg
+      position: {x: -0, y: -0.3939742, z: 0}
+      rotation: {x: 0.097672254, y: -0.03190699, z: -0.04673944, w: 0.99360836}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RightToeBase
+      parentName: client_alwena_RightFoot
+      position: {x: -0, y: -0.058604248, z: 0.13524058}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_Spine
+      parentName: client_alwena_Hips
+      position: {x: -0, y: 0.07393152, z: 0}
+      rotation: {x: 0.042306937, y: -0.0788705, z: -0.012873892, w: 0.99590355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_Spine1
+      parentName: client_alwena_Spine
+      position: {x: 0.0000039562583, y: 0.17289233, z: -0.0000037550926}
+      rotation: {x: -0.08597008, y: -0.02624289, z: 0.010037388, w: 0.99590147}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LeftShoulder
+      parentName: client_alwena_Spine1
+      position: {x: -0.036152013, y: 0.17287451, z: -0.00046005473}
+      rotation: {x: -0.10892012, y: 0.12367335, z: -0.10897699, w: 0.9802884}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LeftArm
+      parentName: client_alwena_LeftShoulder
+      position: {x: -0.13126224, y: 0, z: 0}
+      rotation: {x: 0.19361646, y: -0.0791209, z: 0.12466239, w: 0.96990305}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LeftForeArm
+      parentName: client_alwena_LeftArm
+      position: {x: -0.24928495, y: 0, z: 0}
+      rotation: {x: 0.9377419, y: 0.014810391, z: -0.02317397, w: 0.34624237}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LeftHand
+      parentName: client_alwena_LeftForeArm
+      position: {x: -0.25611508, y: 0.00000047683716, z: -0.00000023841858}
+      rotation: {x: 0.23702864, y: -0.53866357, z: -0.26494795, w: 0.7638466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_Neck
+      parentName: client_alwena_Spine1
+      position: {x: -0, y: 0.21620323, z: 0}
+      rotation: {x: 0.032117035, y: 0.105865695, z: -0.024313536, w: 0.9935642}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_Head
+      parentName: client_alwena_Neck
+      position: {x: -0, y: 0.1397486, z: 0.018032078}
+      rotation: {x: 0.041046377, y: 0.10100788, z: 0.04113722, w: 0.99318695}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RightShoulder
+      parentName: client_alwena_Spine1
+      position: {x: 0.03596194, y: 0.17287451, z: -0.00046005473}
+      rotation: {x: -0.11823926, y: -0.1173376, z: 0.036196917, w: 0.98536354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RightArm
+      parentName: client_alwena_RightShoulder
+      position: {x: 0.13126224, y: 0, z: 0}
+      rotation: {x: 0.13874535, y: 0.14714454, z: -0.04011981, w: 0.9785135}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RightForeArm
+      parentName: client_alwena_RightArm
+      position: {x: 0.24928495, y: 0, z: 0}
+      rotation: {x: -0.5378014, y: -0.0060407794, z: 0.027219836, w: 0.8426104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RightHand
+      parentName: client_alwena_RightForeArm
+      position: {x: 0.23911004, y: 0.00000029802322, z: -0.000000014901161}
+      rotation: {x: -0.5096966, y: -0.28838885, z: -0.02147517, w: 0.8102963}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Take 2025-11-27 09.13.48 AMtest5
+      parentName: bonne_prise_7(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_BackLeft
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.068762586, y: 1.2150903, z: 0.23605317}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_BackRight
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.26058763, y: 1.2116004, z: 0.091594264}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_BackTop
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.16009067, y: 1.3042265, z: 0.16909853}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_Chest
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.046713136, y: 1.2363992, z: 0.0232909}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_HeadFront
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.105908036, y: 1.5696305, z: -0.030397955}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_HeadSide
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.19578095, y: 1.532963, z: 0.10444816}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_HeadTop
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.10176553, y: 1.6270831, z: 0.10202494}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LAnkleOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.09766409, y: 0.12230967, z: 0.17989112}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LElbowOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.1963798, y: 1.1985127, z: -0.047938913}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LHandOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.100517154, y: 1.2286496, z: -0.18552732}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LKneeOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.03156791, y: 0.47700506, z: 0.08782432}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LShin
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.06730583, y: 0.23231229, z: 0.06082699}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LShoulderBack
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.021073934, y: 1.2538024, z: 0.2378526}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LShoulderTop
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.018639779, y: 1.360772, z: 0.1776485}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LThigh
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.0334517, y: 0.704703, z: 0.0015840825}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LToeIn
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.07667542, y: 0.03434851, z: 0.027591811}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LToeOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.017079685, y: 0.030362418, z: 0.08958663}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LUArmHigh
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.12184921, y: 1.2001007, z: 0.11931062}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LWristIn
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.0037904298, y: 1.154992, z: -0.18301113}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_LWristOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.0030035216, y: 1.1916006, z: -0.18212658}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RAnkleOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.161908, y: 0.17209215, z: -0.28828254}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RElbowOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.19042304, y: 1.1893419, z: -0.28284043}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RHandOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.10389404, y: 1.4059222, z: -0.53947234}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RKneeOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.18648869, y: 0.5655475, z: -0.20786928}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RShin
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.11076032, y: 0.46482757, z: -0.27876404}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RShoulderBack
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.26765543, y: 1.264434, z: 0.0015246444}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RShoulderTop
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.19593109, y: 1.3532679, z: 0.031748533}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RThigh
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.12636338, y: 0.6738272, z: -0.19222136}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RToeIn
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.04601297, y: 0.038658287, z: -0.3801834}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RToeOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.14213239, y: 0.036371876, z: -0.3801661}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RUArmHigh
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.23079678, y: 1.213295, z: -0.13675204}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RWristIn
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.17467083, y: 1.3679988, z: -0.4498441}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_RWristOut
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.10671341, y: 1.3293028, z: -0.47684845}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_WaistLBack
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.05286989, y: 0.92974156, z: 0.21311899}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_WaistLFront
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.047392298, y: 0.92214084, z: 0.035297897}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_WaistRBack
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.25106305, y: 0.9385554, z: 0.10321813}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: client_alwena_WaistRFront
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.1333367, y: 0.90779305, z: -0.06907609}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2474
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.75713456, y: 1.7936114, z: 2.560486}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2475
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.7535654, y: 1.8609823, z: 2.559296}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2476
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.8441716, y: 1.8667704, z: 2.5512433}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2477
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.9229356, y: 1.867881, z: 2.5518327}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2478
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.14214563, y: 1.8949473, z: 2.5340953}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2479
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.22634237, y: 1.9126878, z: 2.522481}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2480
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.925529, y: 0.91846776, z: 2.5747337}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2481
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.9266238, y: 1.7922997, z: 2.5513616}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2482
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.70090955, y: 2.175533, z: -2.0372176}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2483
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 1.4539405, y: 1.4628339, z: 2.4596944}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2484
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.5884552, y: 2.2302792, z: 2.4129412}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2485
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.56956977, y: 2.1743724, z: -2.0130625}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2486
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.02044329, y: 1.5171576, z: 2.585126}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2487
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.12760353, y: 1.9123673, z: 2.5294886}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2488
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 1.7643983, y: 2.177419, z: -1.4423594}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2489
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.6926032, y: 2.183203, z: -1.3093777}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2490
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.75229216, y: 0.96795034, z: 2.5765722}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2491
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.7497162, y: 0.8973547, z: 2.5777724}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2492
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.71056736, y: 1.8643053, z: 2.5586991}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2493
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.68538076, y: 0.8820627, z: 2.5809238}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2494
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.4997358, y: 2.1714993, z: 2.3117595}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2495
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.84812665, y: 0.89399076, z: 2.5771391}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2496
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.9302368, y: 1.0026898, z: 2.573176}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2497
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 1.7466525, y: 2.1615393, z: 0.62802607}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2498
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3911358, y: 1.410606, z: 2.3845139}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2499
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3849696, y: 1.4472762, z: -2.0167851}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2500
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 1.439013, y: 1.4199532, z: -2.1140275}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2501
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.5750373, y: 2.1864843, z: 2.365227}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2502
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98410505, y: 2.188406, z: -0.40897527}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2503
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.88511765, y: 2.1872566, z: -0.7973715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2504
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.5223101, y: 1.4365699, z: 2.3358054}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2505
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98437923, y: 2.1886444, z: -0.40909743}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2506
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.5238974, y: 1.4367192, z: 2.3364897}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2507
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98439145, y: 2.1886399, z: -0.40909898}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2508
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98438853, y: 2.1886399, z: -0.40910137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2510
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.984378, y: 2.1886404, z: -0.4090988}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2511
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 1.4407095, y: 1.4245002, z: -2.1290221}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2513
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.378769, y: 1.4524962, z: -2.0018234}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2515
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.14990842, y: 0.8361771, z: -0.07305145}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2517
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.5222355, y: 1.4366739, z: 2.3357706}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2519
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842525, y: 1.4450018, z: -2.024987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2523
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.07132818, y: 0.27779937, z: -0.800416}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2524
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98436993, y: 2.1886423, z: -0.40910047}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2525
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842437, y: 1.4449928, z: -2.02499}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2526
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842366, y: 1.4449908, z: -2.0249786}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2527
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98440456, y: 2.1886938, z: -0.40898234}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2532
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842425, y: 1.4449874, z: -2.0249996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2533
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.15828672, y: 0.95600045, z: -0.8319397}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2534
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842334, y: 1.4449855, z: -2.0249994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2535
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842525, y: 1.4449819, z: -2.0249949}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2536
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.9844123, y: 2.1887023, z: -0.40897903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2539
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842432, y: 1.4449915, z: -2.0249977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2541
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.384243, y: 1.4449791, z: -2.0249975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2543
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.5213146, y: 1.436768, z: 2.3353286}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2544
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842359, y: 1.4449844, z: -2.0249991}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2546
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842268, y: 1.4449912, z: -2.0249977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2547
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98439205, y: 2.1886418, z: -0.4090989}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2548
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842435, y: 1.4449847, z: -2.024994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2549
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98437756, y: 2.1886485, z: -0.40910232}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2551
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98440975, y: 2.1887012, z: -0.40898177}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2552
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.073378846, y: 1.4291412, z: 0.09034112}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2554
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.26144326, y: 0.893471, z: 0.747413}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2555
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.19189143, y: 0.8576374, z: 0.6012787}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2556
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.11370459, y: 0.8306314, z: 0.7223635}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2557
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842409, y: 1.444983, z: -2.024994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2558
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.9843806, y: 2.1886384, z: -0.40910125}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2561
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.4701657, y: 0.39779806, z: 0.8624525}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2563
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 1.488984, y: 1.7061317, z: 3.3022525}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2564
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.079551324, y: 0.7304359, z: 0.8222436}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2566
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98441344, y: 2.1887083, z: -0.40897813}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2569
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842367, y: 1.4449748, z: -2.0250072}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2570
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.15528403, y: 0.8584138, z: 0.8847404}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2571
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842403, y: 1.4449828, z: -2.0250094}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2572
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.25769398, y: 2.1809464, z: -0.82987577}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2574
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98438275, y: 2.1886516, z: -0.40909883}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2575
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842405, y: 1.4449737, z: -2.0250013}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2576
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842349, y: 1.444973, z: -2.025019}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2577
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.384228, y: 1.444988, z: -2.0249965}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2578
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98437965, y: 2.188644, z: -0.40909883}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2579
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842384, y: 1.4449774, z: -2.0250125}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2580
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842416, y: 1.4449879, z: -2.0250134}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2581
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98438436, y: 2.18864, z: -0.40909758}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2582
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842384, y: 1.4449817, z: -2.025015}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2583
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842404, y: 1.4449842, z: -2.0250063}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2584
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842279, y: 1.4449852, z: -2.0249941}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2585
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.3842291, y: 1.4449819, z: -2.024999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2586
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.9843974, y: 2.1887026, z: -0.40898168}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2588
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.9843892, y: 2.188637, z: -0.40909895}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2589
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 1.0117034, y: 1.6609843, z: 2.1222255}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2590
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: 0.57505316, y: 2.1864986, z: 2.365327}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2591
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -1.384238, y: 1.44499, z: -2.0250125}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled 2593
+      parentName: Take 2025-11-27 09.13.48 AMtest5
+      position: {x: -0.98438245, y: 2.1886392, z: -0.4090989}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
