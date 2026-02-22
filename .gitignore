@@ -20,7 +20,7 @@ Assets/*.jpg
 
 
 Assets/Materials
-Assets/Nathan/Scenes/
+# Assets/Nathan/Scenes/
 Assets/Nathan/TutorialInfo
 
 *edroom*
